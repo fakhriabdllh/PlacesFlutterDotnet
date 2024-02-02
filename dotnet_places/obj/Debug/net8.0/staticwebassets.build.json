@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3JLC1xi6yBNkRt+73rthVyhFcBjisAeFTqirnMHO2f0=",
+  "Source": "dotnet_places",
+  "BasePath": "_content/dotnet_places",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
